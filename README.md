@@ -1,5 +1,6 @@
 # lab-bravo-gym-homepage
-This repository contains the homepage for the Gym fictional company for the Module 2 LabBravo.
+This repository contains the homepage design for the Gym fictional company for the Module 2 LabBravo for the spring semester 2026 of CIS 209.
+ This is a simple template to show the planning and design and to communicate how the homepage is planned to be laid out.
 
 # Wireframe for Homepage
 ```text
