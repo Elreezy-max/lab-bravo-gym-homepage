@@ -42,7 +42,7 @@ This repository contains the homepage for the Gym fictional company for the Modu
 │ ┌──────────────────────────┐  ┌───────────────┐          │
 │ │ Main message or highlight│  │ VERTICAL      │          │
 │ │ explaining an offer      │  │ BANNER IMAGE  │          │
-│ │                          │  │ (Promotion)  │           │
+│ │                          │  │ (Promotion)   │          │
 │ └──────────────────────────┘  └───────────────┘          │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
