@@ -91,6 +91,11 @@
     height: auto;
 }
 
+.feature-img img{
+    width: 900px;
+    height: auto;
+}
+
 /* Footer */
 footer {
     background-color: #1a1a1a;
@@ -117,4 +122,8 @@ footer {
     .promotion {
         grid-template-columns: 1fr;
     }
+}
+.logo img {
+    height: 100px;      
+    width: auto;       
 }
