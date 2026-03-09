@@ -33,6 +33,11 @@
     color: #ff6600;
 }
 
+.logo img {
+    height: 100px;      
+    width: auto;       
+}
+
 /* Hero Section */
 .hero {
     position: relative;
@@ -60,4 +65,31 @@
     color: white;
     font-size: 18px;
     cursor: pointer;
+}
+
+/* Services Section */
+.services {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px; 
+    padding: 50px 20px;
+}
+
+.service-card {
+    background-color: #f4f4f4;
+    padding: 30px 20px;
+    flex: 1 1 300px; 
+    max-width: 350px; 
+    text-align: center;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
